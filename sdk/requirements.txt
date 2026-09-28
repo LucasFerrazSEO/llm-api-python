@@ -1,0 +1,4 @@
+openai>=2
+anthropic>=0.60
+google-genai>=1.0
+python-dotenv>=1.0
